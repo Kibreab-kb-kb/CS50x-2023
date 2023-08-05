@@ -1,8 +1,7 @@
 # Web Scraper Project
 
 ### 1   |   Video Demo
-[![Web Scraper Project](/readme-images/index.PNG)](https://youtu.be/QuNGGkdoPdo)
-<https://youtu.be/QuNGGkdoPdo>
+[![Web Scraper Project](/readme-images/index.PNG)]
 
 ### 2   |   Description
 This is a simple web scraping project that allows users to web scrape text from websites. This webscraper is built with the intention of being used to web scrape news sites like TechCrunch.com.
