@@ -11,5 +11,5 @@
 - [Week 7 SQL](https://github.com/kibreab-kb-kb/CS50x-2023/tree/main/Week%207)
 - [Week 8 HTML, CSS, JavaScript](https://github.com/kibreab-kb-kb/CS50x-2023/tree/main/Week%208)
 - [Week 9 Flask](https://github.com/kibreab-kb-kb/CS50x-2023/tree/main/Week%209)
-- [Final Project](https://github.com/kibreab-kb-kb/)
+- [Final Project](https://github.com/me50/Kibreab-kb-kb)
 
